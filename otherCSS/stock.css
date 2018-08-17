@@ -1,0 +1,10 @@
+/* centers background image + sets global font */
+html {
+    background-image: url("../assets/backgrounds/background2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    font-family: oswald;
+    height: 100%;
+     /* overflow: hidden; */
+}

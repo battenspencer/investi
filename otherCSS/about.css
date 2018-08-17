@@ -1,0 +1,64 @@
+html {
+    background-image: url("../assets/backgrounds/background3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    font-family: oswald;
+    height: 100%;
+     /* overflow: hidden; */
+}
+
+.title{
+    height: 750px;
+    width: 1250px;
+    margin: auto;
+    margin-top: 120px;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,.9);
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.spencer{
+    height: 241px;
+    width: 181px;
+    float: left;
+    margin-left: 25px;
+}
+
+.sTitle{
+    color: white;
+    float: left;
+    margin: 25px;
+    margin-top: 10px;
+    font-size: 30px;
+    padding-right: 700px;
+}
+
+.sBio{
+    color: white;
+    float: left;
+    margin-left: 25px;
+    font-size: 15px;
+    text-align: left;
+    /* border: 5px;
+    border-style: solid;
+    border-color: rgb(0,0,0);
+    border-color: rgba(0,0,0,0);  */
+}
+
+.kojo{
+    height: 245px;
+    width: 165px;
+    float: right;
+    margin-right: 25px;
+}
+
+.kTitle{
+    color: white;
+    float: right;
+    font-size: 30px;
+    margin: 25px;
+    margin-top: 10px;
+}
